@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PolyEquation
+- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP.
+- 💞️ I’m looking to collaborate on Graphical Calculator
+- 📫 How to reach me anum30@outlook.com
